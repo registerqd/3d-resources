@@ -173,3 +173,30 @@ entries:
     url_last_verified: '2026-10-31'
     url_status: ok
     pricing_last_verified: '2026-10-31'
+  - name: SnapCut 3D
+    url: https://github.com/registerqd/SnapCut-3D
+    added_at: '2026-11-01T11:05:00Z'
+    description: Open-source desktop and web slicer for cutting oversized 3D models with automated magnet cavities and interlocking dowel pins.
+    license: MIT
+    entry_type: software
+    pricing: Free
+    tags:
+      workflow:
+        - 3d-printing
+        - modeling
+      platform:
+        - windows
+        - macos
+        - linux
+        - web
+      output:
+        - stl
+    readme_tags:
+      - 3D Printing
+      - Slicer
+      - STL
+    best_for: Slicing oversized models for desktop 3D printers with snap-fit magnet or keyed dowel joints
+    notes: Operates entirely locally with analytical geometry intersection and Earcut topology reconstruction; includes build volume checking, 3D exploded view, and assembly BOM generation.
+    url_last_verified: '2026-11-01'
+    url_status: ok
+    pricing_last_verified: '2026-11-01'
